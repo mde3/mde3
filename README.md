@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mabior Duom</h1>
-<h3 align="center">A Front-End Developer that loves crafting user-friendly responsive websites to give all users the best experience.</h3>
-
-<img align="center" width="1400px" height="248px" src="https://miro.medium.com/max/1400/0*0m1rX0H-N0QzUVDZ">
+<h3 align="center">A Front-End Developer crafting user-friendly responsive websites to give all users the best experience.</h3>
 
 - 🔭 I’m currently working on **developing new projects to enhance my skills.**
 
