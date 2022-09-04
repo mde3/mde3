@@ -1,7 +1,7 @@
 Hi 👋 My name is Mabior Duom
 ============================
 
-Front End Developer
+Front-end Developer
 -------------------
 
 Building user-friendly, responsive, and beautiful interfaces
