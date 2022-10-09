@@ -1,16 +1,12 @@
-Hi 👋, Mabior Duom Here
-============================
+<h1 align="center">Hi 👋, I'm Mabior</h1>
 
-Front-end developer
--------------------
-
-Building user-friendly, responsive, and beautiful interfaces
+<h3 align="center">Building user-friendly, responsive, and beautiful interfaces</h3>
 
 ### About me
 * 💻 I'm Interested in **Web Development.**
-* 🔭 I’m currently working on **developing new projects to enhance my skills.**
+* 🔭 I’m currently working on **building new projects to enhance my skills.**
 * 🧠  I’m also learning **React and basic concepts of JavaScript.**
-* 🤝  I'm open to collaborating on interesting web projects
+* 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [mabiorduom5@gmail.com](mailto:mabiorduom5@gmail.com)
 
 ### Skills
