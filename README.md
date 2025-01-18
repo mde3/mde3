@@ -2,9 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=mde3&label=Profile%20views&color=0e75b6&style=flat" alt="Mabior Duom" /> 
 </p> -->
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/mabior-duom)
+<!--[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/mabior-duom) -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0073B1?logo=twitter&logoColor=white&style=flat-square)](https://www.linkedin.com/in/mabior-duom)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/mabiorduom)
-[<img src="https://komarev.com/ghpvc/?username=mde3&label=Profile%20views&color=0e75b6&style=flat" alt="Mabior Duom" />](https://github.com/mde3/mde3)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=twitter&logoColor=white&style=flat-square)](https://discord.com/users/mde3.)
+[<img src="https://komarev.com/ghpvc/?username=mde3&label=Profile%20views&color=0e75b6&style=flat-square" alt="Mabior Duom" />](https://github.com/mde3/mde3)
 
 <!--## Hi 👋
 **Frontend engineer** with expertise in developing intuitive user interfaces, and optimizing performances for user experience. My primary focus is shaping how people view and experience the digital world. -->
